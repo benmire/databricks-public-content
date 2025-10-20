@@ -1,0 +1,6 @@
+id,create_timestamp,attribute1,attribute2,attribute3,cdc_operation
+6,2025-08-28T19:51:44.859Z,attr1_38,attr2_58,attr3_75,INSERT
+7,2025-08-29T03:16:44.859Z,attr1_80,attr2_69,attr3_39,INSERT
+8,2025-08-29T10:48:44.859Z,attr1_58,attr2_94,attr3_93,INSERT
+9,2025-08-29T10:21:44.859Z,attr1_27,attr2_77,attr3_59,INSERT
+10,2025-08-29T06:09:44.859Z,attr1_14,attr2_82,attr3_73,INSERT
